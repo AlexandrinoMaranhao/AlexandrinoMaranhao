@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Olá, eu sou o incrível e único Alexandrino "Marcio de Sá (alguns me chamam assim)" Maranhão
 
-### Read.me de Teste, inspirado por um colega
+### Read.me de Teste
 
 <!--
 <div>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </div> [//]: -->
 
 ##
- ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrinomaranhao&show_icons=true&count_private=true&theme=radical)
+ ![Marcius' GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrinomaranhao&show_icons=true&count_private=true&theme=radical)
  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrinomaranhao&layout=compact&langs_count=8&theme=radical)
  
 <!--
