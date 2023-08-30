@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá, eu sou o Alexandrino "Marcius" Maranhão (ou também na ordem inversa).
+## Olá, eu sou o Alexandrino "Marcius" Maranhão.
 
 ### This is not a test anymore, with quasi-weekly commits until morale improves
 
@@ -35,10 +35,13 @@ Here are some ideas to get you started:
 <!--[![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/daniel99korban)
 [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/daniel99korban) -->
 
-## Tecnologias que pretendo estudar
+## Tecnologias que pretendo estudar ou estou estudando
 [![javaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/AlexandrinoMaranhao)
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/AlexandrinoMaranhao)
 [![css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/AlexandrinoMaranhao)
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/AlexandrinoMaranhao)
 [![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/AlexandrinoMaranhao)
 [![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/AlexandrinoMaranhao)
+[![angularjs](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)](https://github.com/AlexandrinoMaranhao)
+[![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/AlexandrinoMaranhao)
+[![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/AlexandrinoMaranhao)
