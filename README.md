@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Olá, eu sou o Alexandrino "Marcius" Maranhão.
 
-### This is not a test anymore, with quasi-weekly commits until morale improves
+### This is not a test anymore, with (more or less frequent) monthly commits until morale improves
 
 <!--
 <div>
