@@ -47,3 +47,4 @@ Here are some ideas to get you started:
 [![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/AlexandrinoMaranhao)
 [![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/AlexandrinoMaranhao)
 [![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/AlexandrinoMaranhao)
+[![elixir](https://img.shields.io/badge/Elixir-100000?style=for-the-badge&logo=elixir&logoColor=white)](https://github.com/AlexandrinoMaranhao)
