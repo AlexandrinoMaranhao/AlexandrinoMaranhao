@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ## [PT-BR] Olá, eu sou o Alexandrino "Marcius" Maranhão. // [EN] Hi, I am Alexadrino "Marcius" Maranhão.
+About me:
+- Graduando do curso de Sistemas de Informação no IFMA, Campus Monte Castelo
+
 
 ### This is not a test anymore, with (more or less frequent) monthly commits until morale improves
 
