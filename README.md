@@ -27,11 +27,6 @@ Sobre Eu:
  <a href="mailto:daniel99korban@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div> [//]: -->
 
-##
- ![Marcius' GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrinomaranhao&show_icons=true&count_private=true&theme=radical)
- ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrinomaranhao&layout=compact&langs_count=8&theme=radical)
- 
-
 ## [PT-BR] Tecnologias que utilizo ou com as quais tenho mais familiariade // [EN] Technologies that I use or have a higher degree of familiarity with 
 [![linguagem c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black)](https://github.com/AlexandrinoMaranhao)
 [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=yellow)](https://github.com/AlexandrinoMaranhao)
@@ -55,3 +50,8 @@ Sobre Eu:
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=yellow)](https://github.com/AlexandrinoMaranhao)
 [![Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/AlexandrinoMaranhao)
 
+
+##
+ ![Marcius' GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrinomaranhao&show_icons=true&count_private=true&theme=radical)
+ ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrinomaranhao&layout=compact&langs_count=8&theme=radical)
+ 
