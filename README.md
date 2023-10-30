@@ -28,9 +28,9 @@ Sobre Eu:
 </div> [//]: -->
 
 ## [PT-BR] Tecnologias que utilizo ou com as quais tenho mais familiariade // [EN] Technologies that I use or have a higher degree of familiarity with 
-[![linguagem c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black)](https://github.com/AlexandrinoMaranhao)
-[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=yellow)](https://github.com/AlexandrinoMaranhao)
-[![elixir](https://img.shields.io/badge/Elixir-100000?style=for-the-badge&logo=elixir&logoColor=purple)](https://github.com/AlexandrinoMaranhao)
+[![linguagem c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
+[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
+[![elixir](https://img.shields.io/badge/Elixir-100000?style=for-the-badge&logo=elixir&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 
 
 ## [PT-BR] Tecnologias que pretendo estudar ou estou estudando // [EN] Technologies that I intend to study in the near future or that I'm already studying about
@@ -44,11 +44,11 @@ Sobre Eu:
 [![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=yellow)](https://github.com/AlexandrinoMaranhao)
 [![SpringBoot](https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=orange)](https://github.com/AlexandrinoMaranhao)
 [![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=orange)](https://github.com/AlexandrinoMaranhao)
-[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=yellow)](https://github.com/AlexandrinoMaranhao)
-[![Docker](https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=docker&logoColor=yellow)](https://github.com/AlexandrinoMaranhao)
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
+[![Docker](https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=docker&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=yellow)](https://github.com/AlexandrinoMaranhao)
-[![Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/AlexandrinoMaranhao)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
+[![Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 
 
 ##
