@@ -33,7 +33,7 @@ Sobre Eu:
 [![Elixir](https://img.shields.io/badge/Elixir-100000?style=for-the-badge&logo=elixir&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 
 
-## [PT-BR] Tecnologias que pretendo estudar (ou tenho algum grau de interesse) ou estou estudando // [EN] Technologies that I intend (or have some interest to study more in-depth) to study in the near future or that I'm already studying about
+## [PT-BR] Tecnologias que pretendo estudar (ou tenho algum grau de interesse) ou estou estudando // [EN] Technologies that I intend to study in the near future (or have interest to study more in-depth) or that I'm already studying about
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
