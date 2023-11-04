@@ -56,14 +56,13 @@ Sobre Eu:
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![MongodDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
-
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
+[![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
+[![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 <!-- 
-[![]()](https://github.com/AlexandrinoMaranhao)
-[![]()](https://github.com/AlexandrinoMaranhao)
-[![]()](https://github.com/AlexandrinoMaranhao)
-[![]()](https://github.com/AlexandrinoMaranhao)
 [![]()](https://github.com/AlexandrinoMaranhao)
 -->
 ##
- ![Marcius' GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrinomaranhao&show_icons=true&count_private=true&theme=synthwave)
- ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrinomaranhao&layout=compact&langs_count=8&theme=synthwave)
+ ![Marcius' GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrinomaranhao&show_icons=true&count_private=true&theme=cobalt)
+ ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrinomaranhao&layout=compact&langs_count=8&theme=cobalt)
