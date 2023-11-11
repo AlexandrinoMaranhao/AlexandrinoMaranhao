@@ -31,7 +31,7 @@ Sobre Eu:
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)](https://github.com/AlexandrinoMaranhao)
 [![Elixir](https://img.shields.io/badge/Elixir-100000?style=for-the-badge&logo=elixir&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
-
+[![Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 
 ## [PT-BR] Tecnologias que pretendo estudar (ou tenho algum grau de interesse) ou estou estudando // [EN] Technologies that I intend to study in the near future (or have interest to study more in-depth) or that I'm already studying about
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
@@ -49,7 +49,6 @@ Sobre Eu:
 [![Docker](https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=docker&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
-[![Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
