@@ -1,8 +1,6 @@
 <!--
 **AlexandrinoMaranhao/AlexandrinoMaranhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,13 +10,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## [PT-BR] Olá, eu sou o Alexandrino "Marcius" Maranhão. // [EN] Hi, I am Alexandrino "Marcius" Maranhão.
+# [PT-BR] Olá, eu sou o Alexandrino "Marcius" Maranhão. // [EN] Hi, I am Alexandrino "Marcius" Maranhão.
 Sobre Eu:
 - Graduando do curso de Sistemas de Informação no IFMA, Campus Monte Castelo;
-- Metade dos meus commits são coisas irrelevantes (pequenos consertos no perfil);
+- Metade dos meus commits são coisas completamente e incontestavelmente irrelevantes (pequenos consertos no perfil ou besteiras novas de Markdown que eu leio por aí e depois penso em implementar aqui);
+- [Eu em uma música](https://open.spotify.com/intl-pt/track/0HZlND4giwzgolBpaNIRGV)
 
-### This is not a test anymore, with (more or less frequent) monthly commits until morale improves
+*One of the greatest phrases of all time about ambitions and their role in life*
+> What is the greatest ambition in your life?
+> **- To become immortal and then die.**
+
+
+## This is not a test anymore, with (more or less frequent) monthly commits until morale improves
 
 <!--
 <div>
@@ -27,13 +30,13 @@ Sobre Eu:
  <a href="mailto:daniel99korban@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div> [//]: -->
 
-## [PT-BR] Tecnologias que utilizo ou com as quais tenho mais familiariade // [EN] Technologies that I use or have a higher degree of familiarity with 
+### [PT-BR] Tecnologias que utilizo ou com as quais tenho mais familiariade // [EN] Technologies that I use or have a higher degree of familiarity with 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)](https://github.com/AlexandrinoMaranhao)
 [![Elixir](https://img.shields.io/badge/Elixir-100000?style=for-the-badge&logo=elixir&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 
-## [PT-BR] Tecnologias que pretendo estudar (ou tenho algum grau de interesse) ou estou estudando // [EN] Technologies that I intend to study in the near future (or have interest to study more in-depth) or that I'm already studying about
+### [PT-BR] Tecnologias que pretendo estudar (ou tenho algum grau de interesse) ou estou estudando // [EN] Technologies that I intend to study in the near future (or have interest to study more in-depth) or that I'm already studying about
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
