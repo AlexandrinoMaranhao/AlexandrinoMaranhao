@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # [PT-BR] Olá, eu sou o Alexandrino "Marcius" Maranhão. // [EN] Hi, I am Alexandrino "Marcius" Maranhão.
-Sobre Eu:
+=> Infamous **ABOUT ME SECTION :**
 - Graduando do curso de Sistemas de Informação no IFMA, Campus Monte Castelo;
 - Metade dos meus commits são coisas completamente e incontestavelmente irrelevantes (pequenos consertos no perfil ou besteiras novas de Markdown que eu leio por aí e depois penso em implementar aqui);
 - [Eu em uma música](https://open.spotify.com/intl-pt/track/0HZlND4giwzgolBpaNIRGV)
