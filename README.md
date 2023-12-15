@@ -30,13 +30,13 @@ Here are some ideas to get you started:
  <a href="mailto:daniel99korban@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div> [//]: -->
 
-### [PT-BR] Tecnologias que utilizo ou com as quais tenho mais familiariade // [EN] Technologies that I use or have a higher degree of familiarity with 
+### [PT-BR] Tecnologias que utilizo ou com as quais tenho mais familiariade // [EN] Technologies that I use or have a higher degree of familiarity with:
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)](https://github.com/AlexandrinoMaranhao)
 [![Elixir](https://img.shields.io/badge/Elixir-100000?style=for-the-badge&logo=elixir&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 
-### [PT-BR] Tecnologias que pretendo estudar (ou tenho algum grau de interesse) ou estou estudando // [EN] Technologies that I intend to study in the near future (or have interest to study more in-depth) or that I'm already studying about
+### [PT-BR] Tecnologias que pretendo estudar (ou tenho algum grau de interesse) ou estou estudando // [EN] Technologies that I intend to study in the near future (or have interest to study more in-depth) or that I'm already studying about:
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
@@ -62,9 +62,11 @@ Here are some ideas to get you started:
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
+
 <!-- 
 [![]()](https://github.com/AlexandrinoMaranhao)
 -->
+
 ##
  ![Marcius' GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrinomaranhao&show_icons=true&count_private=true&theme=cobalt)
  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrinomaranhao&layout=compact&langs_count=8&theme=cobalt)
