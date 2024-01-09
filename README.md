@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 
 <h2><b>ABOUT ME</b></h1>
 <div>
-<p>Graduando do curso de Sistemas de Informação no IFMA, Campus Monte Castelo;</p>
-<p>Metade dos meus commits são coisas completamente e incontestavelmente irrelevantes (pequenos consertos no perfil ou besteiras novas de Markdown/HTML/CSS que eu leio por aí, penso que aprendi o suficiente e depois penso em implementar aqui nessa joça);</p>
-<p></p>
-<a href="https://open.spotify.com/intl-pt/track/0HZlND4giwzgolBpaNIRGV" target="_blank"> [>tfw no Aquarius GF]</a>
+ <p>Graduando do curso de Sistemas de Informação no IFMA, Campus Monte Castelo;</p>
+ <p>Metade dos meus commits são coisas completamente e incontestavelmente irrelevantes (pequenos consertos no perfil ou besteiras novas de Markdown/HTML/CSS que eu leio por aí, penso que aprendi o suficiente e depois   penso em implementar aqui nessa joça);</p>
+ <p></p>
+ <a href="https://open.spotify.com/intl-pt/track/0HZlND4giwzgolBpaNIRGV" target="_blank"> [>tfw no Aquarius GF]</a>
 </div>
-<p></p>
+ <p></p>
 
 > What is the greatest ambition in your life?
 > **- To become immortal and then die.**
@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 <h2><b>REDES SOCIAIS E MEIOS DE CONTATO</b></h2>
 <div>
- <a href="https://www.instagram.com/alexandrinma/" target="_blank"><img src="https://img.shields.io/badge/Instagram-730F8A?style=for-the-badge&logo=instagram&logoColor=black"/></a>
+ <a href="https://www.instagram.com/alexandrinma/"><img src="https://img.shields.io/badge/Instagram-730F8A?style=for-the-badge&logo=instagram&logoColor=gold"/></a>
  <!--
  <a href="https://www.linkedin.com/in/daniel-lima-973a45227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  -->
- <a href="mailto:marciojunior949@gmail.com" target="_blank"><img src="https://img.shields.io/ba dge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+ <a href="mailto:marciojunior949@gmail.com"><img src="https://img.shields.io/ba dge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=gold"/></a>
 </div> 
 
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### Minha stack atual (ainda não definida)
  <div>
-    <p><strong>TBD - TO BE DONE</strong></p>
+  <p><strong>TBD - TO BE DONE</strong></p>
  </div>
 
 ### [PT-BR] Tecnologias que utilizo ou com as quais tenho mais familiariade // [EN] Technologies that I use or have a higher degree of familiarity with:
