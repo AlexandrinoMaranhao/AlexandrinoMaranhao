@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 
 <h2><b>ABOUT ME</b></h1>
 <div>
- <p>Graduando do curso de Sistemas de Informação no IFMA, Campus Monte Castelo;</p>
- <p>Metade dos meus commits são coisas completamente e incontestavelmente irrelevantes (pequenos consertos no perfil ou besteiras novas de Markdown/HTML/CSS que eu leio por aí, penso que aprendi o suficiente e depois   penso em implementar aqui nessa joça);</p>
- <p></p>
- <a href="https://open.spotify.com/intl-pt/track/0HZlND4giwzgolBpaNIRGV" target="_blank"> [>tfw no Aquarius GF]</a>
+ <li>Graduando do curso de Sistemas de Informação no IFMA, Campus Monte Castelo;</li>
+ <li>Metade dos meus commits são coisas completamente e incontestavelmente irrelevantes (pequenos consertos no perfil ou besteiras novas de Markdown/HTML/CSS que eu leio por aí, penso que aprendi o suficiente e depois   penso em implementar aqui nessa joça);</li>
+ <li>Busco oportunidades de aprendizado em qualquer stack, buscando uma na qual eu possa me firmar</li>
+ <li><a href="https://open.spotify.com/intl-pt/track/0HZlND4giwzgolBpaNIRGV" target="_blank"> [>tfw no Aquarius GF]</a></li>
+</div>
 </div>
  <p></p>
 
