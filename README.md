@@ -89,5 +89,9 @@ Here are some ideas to get you started:
 -->
 
 ##
- ![Marcius' GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrinomaranhao&show_icons=true&count_private=true&theme=cobalt)
- ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrinomaranhao&layout=compact&langs_count=8&theme=cobalt)
+ <div align="center">
+  
+ ![Marcius' GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrinomaranhao&show_icons=true&count_private=true&theme=neon)
+ ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrinomaranhao&layout=compact&langs_count=8&theme=neon)
+ 
+ </div>
