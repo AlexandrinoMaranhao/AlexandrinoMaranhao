@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 <div align="center">
  <a href="https://www.instagram.com/alexandrinma/"><img src="https://img.shields.io/badge/Instagram-730F8A?style=for-the-badge&logo=instagram&logoColor=gold" target="_blank"/></a>
  <!--
- <a href="https://www.linkedin.com/in/my linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+ <a href="https://www.linkedin.com/in/my linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=gold" target="_blank"/></a>
  -->
+ <a href="https://bsky.app/profile/nihilistinslz.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=gold" target="_blank"/></a>
  <a href="mailto:marciojunior949@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=gold" target="_blank"/></a>
 </div> 
 
