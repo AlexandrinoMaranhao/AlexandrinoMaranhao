@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div>
  <li>Graduando do curso de Sistemas de Informação no IFMA, Campus Monte Castelo;</li>
  <li>Metade dos meus commits são coisas completamente e incontestavelmente irrelevantes (pequenos consertos no perfil ou besteiras novas de Markdown/HTML/CSS que eu leio por aí, penso que aprendi o suficiente e depois   penso em implementar aqui nessa joça);</li>
- <li>Busco oportunidades de aprendizado em qualquer stack, buscando uma na qual eu possa me firmar</li>
+ <li>Busco oportunidades de emprego, com disponibilidade de iniciar o aprendizado em qualquer stack, buscando uma na qual eu possa me firmar</li>
  <li><a href="https://open.spotify.com/intl-pt/track/0HZlND4giwzgolBpaNIRGV" target="_blank"> [>tfw no Aquarius GF]</a></li>
 </div>
 </div>
@@ -97,3 +97,8 @@ Here are some ideas to get you started:
  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrinomaranhao&layout=compact&langs_count=8&theme=neon)
  
  </div>
+
+ <div align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6db37440-06e9-407e-9f36-af4524d8d831/dcnx4qy-67bd31f1-8f4d-4e5c-9849-430761253993.jpg/v1/fill/w_1212,h_659,q_70,strp/kerberos_panzer_troopers_12_by_solgravionmegazord_dcnx4qy-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA0NSIsInBhdGgiOiJcL2ZcLzZkYjM3NDQwLTA2ZTktNDA3ZS05ZjM2LWFmNDUyNGQ4ZDgzMVwvZGNueDRxeS02N2JkMzFmMS04ZjRkLTRlNWMtOTg0OS00MzA3NjEyNTM5OTMuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fqjvkJHLoLgN5Qiw3sIgnr2y3onICzoM8vTPuOmSnrY" alt="Jin-Roh Art" >
+ </div>
+ 
