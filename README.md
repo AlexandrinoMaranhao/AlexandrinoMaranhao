@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
 ### [PT-BR] Tecnologias que estou estudando no momento// [EN] Technologies that I'm currently studying:
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
@@ -69,7 +70,6 @@ Here are some ideas to get you started:
 [![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Docker](https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=docker&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=gold)](https://github.com/AlexandrinoMaranhao)
