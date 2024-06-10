@@ -26,16 +26,6 @@ Here are some ideas to get you started:
 
 **This is not a test anymore, with (more or less frequent) monthly commits until morale improves**
 
-<h2><b>REDES SOCIAIS E MEIOS DE CONTATO</b></h2>
-<div align="center">
- <p><b>Instagram</b></p> <a href="https://www.instagram.com/alexandrinma/"><img src="https://img.shields.io/badge/Instagram-730F8A?style=for-the-badge&logo=instagram&logoColor=gold" target="_blank"/></a>
- <!--<a href="https://www.linkedin.com/in/my linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=gold" target="_blank"/></a>-->
- <p><b>Céu Azul</b></p><a href="https://bsky.app/profile/nihilistinslz.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=gold" target="_blank"/></a>
- <p><b>Email Pessoal</b></p> <a href="mailto:marciojunior949@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=gold" target="_blank"/></a>
- <p><b>Email Academico</b></p> <a href="mailto:m.brito@acad.ifma.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=gold" target="_blank"/></a>
-</div>
-
-
 <h2><b>MEUS CONHECIMENTOS</b></h2>
 
 ### Minha stack atual (ainda não definida)
