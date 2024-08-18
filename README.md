@@ -86,7 +86,10 @@ Here are some ideas to get you started:
  
  </div>
 
+<div>
+ 
+</div>
+
  <div align="center">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6db37440-06e9-407e-9f36-af4524d8d831/dcnx4qy-67bd31f1-8f4d-4e5c-9849-430761253993.jpg/v1/fill/w_1212,h_659,q_70,strp/kerberos_panzer_troopers_12_by_solgravionmegazord_dcnx4qy-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA0NSIsInBhdGgiOiJcL2ZcLzZkYjM3NDQwLTA2ZTktNDA3ZS05ZjM2LWFmNDUyNGQ4ZDgzMVwvZGNueDRxeS02N2JkMzFmMS04ZjRkLTRlNWMtOTg0OS00MzA3NjEyNTM5OTMuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fqjvkJHLoLgN5Qiw3sIgnr2y3onICzoM8vTPuOmSnrY" alt="Jin-Roh Art" >
  </div>
- 
