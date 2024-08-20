@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### Minha stack atual (ainda não definida)
  <div align="center">
-  <p><strong>TBD - TO BE DONE</strong></p>
+  <p><strong>Leaning towards Backend, but aiming towards Fullstack</strong></p>
  </div>
 
 ### [PT-BR] Tecnologias que utilizo ou com as quais tenho mais familiariade // [EN] Technologies that I use or have a higher degree of familiarity with:
